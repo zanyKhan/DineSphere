@@ -32,3 +32,13 @@ class ItemSerializer(serializers.ModelSerializer):
             'category',
             'add_category',
         ]
+
+    def create(self, validated_data):
+        category = validated_data.pop('add_category')
+        title = validated_data.pop('add_title')
+
+        return Item.objects.create(
+            category=category,
+            title=title,
+            **validated_data
+        )
