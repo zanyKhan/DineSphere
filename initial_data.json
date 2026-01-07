@@ -209,11 +209,11 @@
     "description": "",
     "price": 120.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683332/1000143750_h7tq2w.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767790822/100014373_stcbdp.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T09:49:34.043Z",
-    "updated_at": "2026-01-06T13:10:28.046Z"
+    "updated_at": "2026-01-07T13:02:08.062Z"
   }
 },
 {
@@ -241,11 +241,11 @@
     "description": "",
     "price": 240.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683329/100014359_ngdyci.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767790571/100014374_cghpoo.jpg",
     "availability": true,
     "category": 8,
     "created_at": "2025-12-23T09:51:45.041Z",
-    "updated_at": "2026-01-06T13:27:32.196Z"
+    "updated_at": "2026-01-07T13:01:21.300Z"
   }
 },
 {
@@ -257,11 +257,11 @@
     "description": "",
     "price": 80.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683344/1000143765_igwr0x.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767790822/100014374_1_k0cv8p.jpg",
     "availability": true,
     "category": 10,
     "created_at": "2025-12-23T09:53:02.201Z",
-    "updated_at": "2026-01-06T13:41:38.130Z"
+    "updated_at": "2026-01-07T13:02:46.211Z"
   }
 },
 {
@@ -417,11 +417,11 @@
     "description": "Penne pasta in tomato sauce with chicken and fresh tomatoes, perfect Italian meal.",
     "price": 320.0,
     "rating": 4.4,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761361591/penne_pasta_with_chicken_eywllg.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791122/1000143982_bsyfn2.jpg",
     "availability": true,
     "category": 6,
     "created_at": "2025-12-23T10:21:08.184Z",
-    "updated_at": "2025-12-23T10:21:08.184Z"
+    "updated_at": "2026-01-07T13:45:03.439Z"
   }
 },
 {
@@ -465,11 +465,11 @@
     "description": "Fattening, indulgent fast food including burgers, fries, and more, perfect for cheat meals.",
     "price": 350.0,
     "rating": 4.2,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767680579/1000143337_zi2hkt.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767796695/1000144048_qgzdlv.jpg",
     "availability": true,
     "category": 10,
     "created_at": "2025-12-23T10:24:01.886Z",
-    "updated_at": "2026-01-06T13:40:30.135Z"
+    "updated_at": "2026-01-07T14:40:21.481Z"
   }
 },
 {
@@ -557,15 +557,15 @@
   "pk": 38,
   "fields": {
     "title": 3,
-    "name": "Rava Dosa",
-    "description": "Thin crispy dosa made with semolina, served with sambhar.",
+    "name": "Special Thali",
+    "description": "A traditional South Indian meal served on a banana leaf, featuring steamed rice surrounded by a variety of flavorful curries, lentils, vegetables, chutneys, and crispy papad.",
     "price": 240.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762838924/1000130064_xmrtgx.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791119/1000143996_qhouah.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T10:36:40.592Z",
-    "updated_at": "2025-12-23T10:36:40.592Z"
+    "updated_at": "2026-01-07T13:34:26.903Z"
   }
 },
 {
@@ -618,22 +618,6 @@
 },
 {
   "model": "menu.item",
-  "pk": 44,
-  "fields": {
-    "title": 3,
-    "name": "Chicken Skewers with Apple & Chili",
-    "description": "Grilled chicken skewers served with slices of apples and chili, a perfect sweet-spicy combo.",
-    "price": 350.0,
-    "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1761364831/chicken_skewers_with_apples_chili_hd2hkc.jpg",
-    "availability": true,
-    "category": 9,
-    "created_at": "2025-12-23T10:43:21.876Z",
-    "updated_at": "2025-12-23T10:43:21.876Z"
-  }
-},
-{
-  "model": "menu.item",
   "pk": 45,
   "fields": {
     "title": 3,
@@ -641,11 +625,11 @@
     "description": "Front view of a healthy noodle bowl loaded with fresh vegetables, light and tasty.",
     "price": 300.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683332/1000143724_itxyqo.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791121/1000143724_uwpcuc.jpg",
     "availability": true,
     "category": 10,
     "created_at": "2025-12-23T10:44:14.705Z",
-    "updated_at": "2026-01-06T13:39:48.559Z"
+    "updated_at": "2026-01-07T13:41:12.964Z"
   }
 },
 {
@@ -657,11 +641,11 @@
     "description": "High-angle view of a variety of noodle bowls with vegetables and toppings.",
     "price": 320.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683332/1000143725_ykqnfc.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767796695/1000144047_vbyjs9.jpg",
     "availability": true,
     "category": 10,
     "created_at": "2025-12-23T10:46:24.788Z",
-    "updated_at": "2026-01-06T13:39:25.232Z"
+    "updated_at": "2026-01-07T14:39:54.551Z"
   }
 },
 {
@@ -678,22 +662,6 @@
     "category": 7,
     "created_at": "2025-12-23T10:47:39.386Z",
     "updated_at": "2025-12-23T10:47:39.386Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 51,
-  "fields": {
-    "title": 3,
-    "name": "Baked Chicken Drumsticks (Honey Mustard Marinade)",
-    "description": "Juicy baked chicken drumsticks marinated in honey mustard, tender on the inside with a golden crust.",
-    "price": 280.0,
-    "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762780919/baked-chicken-drumsticks-honey-mustard-marinade_d1nzgw.jpg",
-    "availability": true,
-    "category": 9,
-    "created_at": "2025-12-23T10:50:58.705Z",
-    "updated_at": "2025-12-23T10:50:58.705Z"
   }
 },
 {
@@ -829,15 +797,15 @@
   "pk": 63,
   "fields": {
     "title": 3,
-    "name": "Idli Sambhar",
-    "description": "Soft steamed idlis served with spicy sambhar and chutneys.",
+    "name": "Special Thali",
+    "description": "A traditional South Indian banana leaf meal featuring steamed rice, crispy papad, fried snacks, and an assortment of rich curries, chutneys, and side dishes served in small bowls.",
     "price": 230.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683335/1000143761_pzux0y.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791119/1000144001_q8iywa.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T11:07:01.360Z",
-    "updated_at": "2026-01-06T13:16:59.967Z"
+    "updated_at": "2026-01-07T13:37:12.805Z"
   }
 },
 {
@@ -881,11 +849,11 @@
     "description": "Healthy salad with grilled paneer, veggies and light dressing.",
     "price": 310.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683339/1000143757_hgd9od.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767794500/1000144023_ikpzoa.jpg",
     "availability": true,
     "category": 4,
     "created_at": "2025-12-23T11:09:32.679Z",
-    "updated_at": "2026-01-06T13:07:25.811Z"
+    "updated_at": "2026-01-07T14:04:05.649Z"
   }
 },
 {
@@ -1041,11 +1009,11 @@
     "description": "Delicious vanilla ice cream topped with fresh strawberries and chocolate drizzle.",
     "price": 150.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762782684/ice-cream-with-strawberries-chocolate-white-plate.png",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767798102/1000144078_anuf9q.jpg",
     "availability": true,
     "category": 14,
     "created_at": "2025-12-23T11:27:52.436Z",
-    "updated_at": "2025-12-23T11:27:52.436Z"
+    "updated_at": "2026-01-07T15:03:00.077Z"
   }
 },
 {
@@ -1062,22 +1030,6 @@
     "category": 3,
     "created_at": "2025-12-23T11:28:44.809Z",
     "updated_at": "2026-01-06T08:03:39.964Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 83,
-  "fields": {
-    "title": 3,
-    "name": "Pre-prepared Ready-to-Eat Meals",
-    "description": "Convenient pre-prepared meals showcasing a variety of delicious food.",
-    "price": 400.0,
-    "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683342/1000143770_v1jnjy.jpg",
-    "availability": true,
-    "category": 4,
-    "created_at": "2025-12-23T11:29:41.543Z",
-    "updated_at": "2026-01-06T13:03:45.649Z"
   }
 },
 {
@@ -1169,11 +1121,11 @@
     "description": "Soft and sweet fried dumplings soaked in sugar syrup.",
     "price": 220.0,
     "rating": 4.9,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762838254/1000130667_s1gnkf.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767798102/1000144079_llurjj.jpg",
     "availability": true,
     "category": 14,
     "created_at": "2025-12-23T12:23:38.999Z",
-    "updated_at": "2025-12-23T12:23:38.999Z"
+    "updated_at": "2026-01-07T15:03:31.784Z"
   }
 },
 {
@@ -1265,11 +1217,11 @@
     "description": "A decorated birthday cake, perfect for celebrations.",
     "price": 250.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789059/birthday-cake_mnyiaw.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767798102/1000144080_pyayft.webp",
     "availability": true,
     "category": 14,
     "created_at": "2025-12-23T12:30:44.685Z",
-    "updated_at": "2025-12-23T12:30:44.685Z"
+    "updated_at": "2026-01-07T15:04:09.813Z"
   }
 },
 {
@@ -1277,15 +1229,15 @@
   "pk": 99,
   "fields": {
     "title": 3,
-    "name": "Nutritious Indian Dosa Assortment",
-    "description": "A plate of assorted dosas, freshly made and nutritious.",
+    "name": "Special Thali",
+    "description": "A special South Indian thali offering  crispy papad, fried delicacies, and a variety of flavorful curries, chutneys.",
     "price": 160.0,
     "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789060/nutritious-indian-dosa-assortment_nveohi.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791121/1000143998_bkkgzi.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T12:31:26.620Z",
-    "updated_at": "2025-12-23T12:31:26.620Z"
+    "updated_at": "2026-01-07T13:50:46.216Z"
   }
 },
 {
@@ -1309,15 +1261,15 @@
   "pk": 102,
   "fields": {
     "title": 3,
-    "name": "Masala Dosa",
-    "description": "Crispy dosa filled with spicy potato stuffing served with chutneys.",
+    "name": "Special Thali",
+    "description": "A special South Indian thali served on a banana leaf, offering steamed rice, crispy papad, fried delicacies, and a variety of flavorful curries, chutneys, and traditional side dishes.",
     "price": 250.0,
     "rating": 4.8,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762838082/1000130875_hdolzy.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791121/1000143999_dr9emo.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T12:33:59.078Z",
-    "updated_at": "2025-12-23T12:33:59.078Z"
+    "updated_at": "2026-01-07T13:39:09.061Z"
   }
 },
 {
@@ -1334,22 +1286,6 @@
     "category": 6,
     "created_at": "2025-12-23T12:34:41.327Z",
     "updated_at": "2026-01-07T05:20:11.724Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 106,
-  "fields": {
-    "title": 3,
-    "name": "Chicken Skewers with Apple & Chili",
-    "description": "Tender grilled chicken skewers paired with apple slices and mild chili for extra flavor.",
-    "price": 360.0,
-    "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767680621/1000143322_sekcsd.jpg",
-    "availability": true,
-    "category": 9,
-    "created_at": "2025-12-23T12:36:54.019Z",
-    "updated_at": "2026-01-07T04:44:12.072Z"
   }
 },
 {
@@ -1489,11 +1425,11 @@
     "description": "Soft and moist cake topped with cream, Oreo pieces, and fresh strawberries.",
     "price": 180.0,
     "rating": 4.8,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786348/sweet-cake-with-cream-oreo-strawberry_m5lzdr.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767798102/1000144085_biuqkh.jpg",
     "availability": true,
     "category": 14,
     "created_at": "2025-12-23T12:45:53.010Z",
-    "updated_at": "2025-12-23T12:45:53.010Z"
+    "updated_at": "2026-01-07T15:04:38.637Z"
   }
 },
 {
@@ -1610,22 +1546,6 @@
 },
 {
   "model": "menu.item",
-  "pk": 124,
-  "fields": {
-    "title": 3,
-    "name": "Idli with Sambar and Chutney",
-    "description": "Soft and fluffy South Indian idlis served with sambar and coconut chutney.",
-    "price": 130.0,
-    "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683336/1000143762_xjlc7a.jpg",
-    "availability": true,
-    "category": 5,
-    "created_at": "2025-12-23T13:00:49.018Z",
-    "updated_at": "2026-01-06T13:14:36.696Z"
-  }
-},
-{
-  "model": "menu.item",
   "pk": 125,
   "fields": {
     "title": 3,
@@ -1677,15 +1597,15 @@
   "pk": 128,
   "fields": {
     "title": 3,
-    "name": "South Indian Dosa with Sambar",
-    "description": "Delicious golden-brown South Indian dosa served with sambar and coconut chutney.",
+    "name": "Special Thali",
+    "description": "A special South Indian thali with fragrant rice, crunchy papad, rich selection of authentic curries.",
     "price": 150.0,
     "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683335/1000143760_rlyqcq.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791124/1000143995_gbqnkz.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T13:04:01.359Z",
-    "updated_at": "2026-01-06T13:14:03.968Z"
+    "updated_at": "2026-01-07T13:58:21.239Z"
   }
 },
 {
@@ -1729,11 +1649,11 @@
     "description": "A variety of cake pieces arranged beautifully, perfect for desserts.",
     "price": 200.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762789094/assortment-pieces-cake_hcfu1l.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767798102/1000144086_shmat5.jpg",
     "availability": true,
     "category": 14,
     "created_at": "2025-12-23T13:09:50.891Z",
-    "updated_at": "2025-12-23T13:09:50.891Z"
+    "updated_at": "2026-01-07T15:04:58.169Z"
   }
 },
 {
@@ -1741,15 +1661,15 @@
   "pk": 132,
   "fields": {
     "title": 3,
-    "name": "Indian Dosa Arrangement",
-    "description": "Top view of freshly made Indian dosas arranged beautifully on a plate.",
+    "name": "Special Thali",
+    "description": "A special South Indian thali featuring fragrant rice, rich selection of authentic curries and accompaniments.",
     "price": 150.0,
     "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683338/1000143756_uytan1.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791121/1000144000_fvcepu.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T13:10:42.860Z",
-    "updated_at": "2026-01-06T13:12:24.006Z"
+    "updated_at": "2026-01-07T13:55:48.704Z"
   }
 },
 {
@@ -1917,15 +1837,111 @@
   "pk": 148,
   "fields": {
     "title": 3,
-    "name": "South Indian Idli with Sambar",
-    "description": "Soft idlis served with sambar and chutney, authentic South Indian breakfast.",
+    "name": "Special Thali",
+    "description": "A special South Indian thali offering steamed rice, fried delicacies, and a variety of flavorful curries, chutneys.",
     "price": 130.0,
     "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683336/1000143762_xjlc7a.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767791124/1000143997_i7tcgk.jpg",
     "availability": true,
     "category": 5,
     "created_at": "2025-12-23T13:30:46.181Z",
-    "updated_at": "2026-01-06T13:11:56.956Z"
+    "updated_at": "2026-01-07T14:00:01.929Z"
+  }
+},
+{
+  "model": "menu.item",
+  "pk": 150,
+  "fields": {
+    "title": 3,
+    "name": "Paneer Butter Masala",
+    "description": "Creamy tomato-based curry cooked with soft paneer cubes and mild Indian spices.",
+    "price": 220.0,
+    "rating": 4.6,
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767797251/1000144060_bbsgni.jpg",
+    "availability": true,
+    "category": 8,
+    "created_at": "2026-01-07T14:48:11.426Z",
+    "updated_at": "2026-01-07T14:48:11.426Z"
+  }
+},
+{
+  "model": "menu.item",
+  "pk": 151,
+  "fields": {
+    "title": 3,
+    "name": "Mixed Vegetable Curry",
+    "description": "A wholesome curry made with seasonal vegetables simmered in a spiced gravy.",
+    "price": 180.0,
+    "rating": 4.3,
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767797251/1000144058_ry7b6u.jpg",
+    "availability": true,
+    "category": 8,
+    "created_at": "2026-01-07T14:49:12.983Z",
+    "updated_at": "2026-01-07T14:50:50.837Z"
+  }
+},
+{
+  "model": "menu.item",
+  "pk": 152,
+  "fields": {
+    "title": 3,
+    "name": "Chana Masala",
+    "description": "Traditional North Indian curry prepared with chickpeas, onions, tomatoes, and aromatic spices.",
+    "price": 170.0,
+    "rating": 4.4,
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767797251/1000144061_pmv84l.jpg",
+    "availability": true,
+    "category": 8,
+    "created_at": "2026-01-07T14:50:26.646Z",
+    "updated_at": "2026-01-07T14:50:26.646Z"
+  }
+},
+{
+  "model": "menu.item",
+  "pk": 153,
+  "fields": {
+    "title": 3,
+    "name": "Dal Tadka",
+    "description": "Yellow lentils cooked to perfection and tempered with garlic, cumin, and desi ghee.",
+    "price": 150.0,
+    "rating": 4.5,
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767797251/1000144059_dmt7vo.jpg",
+    "availability": true,
+    "category": 8,
+    "created_at": "2026-01-07T14:51:57.307Z",
+    "updated_at": "2026-01-07T14:51:57.307Z"
+  }
+},
+{
+  "model": "menu.item",
+  "pk": 154,
+  "fields": {
+    "title": 3,
+    "name": "Vegetable Korma",
+    "description": "A rich and mildly sweet curry made with mixed vegetables in a coconut-based gravy.",
+    "price": 200.0,
+    "rating": 4.2,
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767797251/1000144062_uwxgv0.jpg",
+    "availability": true,
+    "category": 8,
+    "created_at": "2026-01-07T14:52:49.939Z",
+    "updated_at": "2026-01-07T14:52:49.939Z"
+  }
+},
+{
+  "model": "menu.item",
+  "pk": 155,
+  "fields": {
+    "title": 3,
+    "name": "Vegetable Curry",
+    "description": "A flavorful mixed vegetable curry cooked in a rich, mildly spiced gravy and garnished with fresh herbs for a comforting taste.",
+    "price": 190.0,
+    "rating": 4.4,
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767797685/1000144075_eregpc.jpg",
+    "availability": true,
+    "category": 8,
+    "created_at": "2026-01-07T14:56:02.530Z",
+    "updated_at": "2026-01-07T14:56:02.530Z"
   }
 }
 ]
