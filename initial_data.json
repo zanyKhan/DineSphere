@@ -127,15 +127,6 @@
 },
 {
   "model": "menu.category",
-  "pk": 13,
-  "fields": {
-    "category_name": "Snacks",
-    "created_at": "2025-12-23T09:39:39.619Z",
-    "updated_at": "2025-12-23T09:39:39.619Z"
-  }
-},
-{
-  "model": "menu.category",
   "pk": 14,
   "fields": {
     "category_name": "Dessert",
@@ -353,11 +344,11 @@
     "description": "Fresh vegetable and chicken salad with greens, healthy and light.",
     "price": 220.0,
     "rating": 4.3,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683335/1000143759_ybu2tf.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683341/1000143769_fdfthi.jpg",
     "availability": true,
     "category": 4,
     "created_at": "2025-12-23T10:14:10.694Z",
-    "updated_at": "2026-01-06T13:09:33.810Z"
+    "updated_at": "2026-01-08T05:37:54.719Z"
   }
 },
 {
@@ -657,11 +648,11 @@
     "description": "A visually appealing plate of traditional Pakistani cuisine.",
     "price": 270.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787992/pancakes-with-ketchup-sauce_n6cxx2.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767680581/1000143321_silx5i.jpg",
     "availability": true,
     "category": 7,
     "created_at": "2025-12-23T10:47:39.386Z",
-    "updated_at": "2025-12-23T10:47:39.386Z"
+    "updated_at": "2026-01-08T06:12:15.546Z"
   }
 },
 {
@@ -742,22 +733,6 @@
     "category": 11,
     "created_at": "2025-12-23T11:03:00.708Z",
     "updated_at": "2026-01-06T13:49:06.691Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 60,
-  "fields": {
-    "title": 3,
-    "name": "Cheese Corn Balls",
-    "description": "Crispy cheese corn snacks served with dip.",
-    "price": 250.0,
-    "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762838468/1000130471_xay5hr.jpg",
-    "availability": true,
-    "category": 13,
-    "created_at": "2025-12-23T11:04:36.849Z",
-    "updated_at": "2025-12-23T11:04:36.849Z"
   }
 },
 {
@@ -993,11 +968,11 @@
     "description": "Top view of a delicious homemade salad with a variety of fresh ingredients.",
     "price": 220.0,
     "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683341/1000143753_gvuhgm.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683329/1000143728_kfdtyo.jpg",
     "availability": true,
     "category": 4,
     "created_at": "2025-12-23T11:24:24.129Z",
-    "updated_at": "2026-01-06T13:04:28.527Z"
+    "updated_at": "2026-01-08T05:34:14.667Z"
   }
 },
 {
@@ -1057,11 +1032,11 @@
     "description": "Tender chicken served with flavorful sides, a perfect example of classic non-veg curry cuisine.",
     "price": 260.0,
     "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683339/1000143757_hgd9od.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683342/1000143770_v1jnjy.jpg",
     "availability": true,
     "category": 7,
     "created_at": "2025-12-23T11:32:41.013Z",
-    "updated_at": "2026-01-07T05:36:07.210Z"
+    "updated_at": "2026-01-08T06:07:11.787Z"
   }
 },
 {
@@ -1146,22 +1121,6 @@
 },
 {
   "model": "menu.item",
-  "pk": 93,
-  "fields": {
-    "title": 3,
-    "name": "Crispy Masala Fries",
-    "description": "Golden fries tossed with spicy Indian masala seasoning.",
-    "price": 240.0,
-    "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762838207/1000130849_cbyit2.jpg",
-    "availability": true,
-    "category": 13,
-    "created_at": "2025-12-23T12:26:20.069Z",
-    "updated_at": "2025-12-23T12:26:20.069Z"
-  }
-},
-{
-  "model": "menu.item",
   "pk": 95,
   "fields": {
     "title": 3,
@@ -1197,7 +1156,7 @@
   "pk": 97,
   "fields": {
     "title": 3,
-    "name": "Pav Bhaji",
+    "name": "Burger",
     "description": "Mumbai-style buttery pav served with spicy mashed vegetables.",
     "price": 280.0,
     "rating": 4.7,
@@ -1205,7 +1164,7 @@
     "availability": true,
     "category": 10,
     "created_at": "2025-12-23T12:29:51.198Z",
-    "updated_at": "2026-01-06T13:33:09.235Z"
+    "updated_at": "2026-01-08T06:20:03.236Z"
   }
 },
 {
@@ -1297,11 +1256,11 @@
     "description": "Healthy salad with fresh chicken slices and sesame seeds, colorful and nutritious.",
     "price": 220.0,
     "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683335/1000143759_ybu2tf.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767683333/1000143717_ltc7lh.jpg",
     "availability": true,
     "category": 4,
     "created_at": "2025-12-23T12:37:41.015Z",
-    "updated_at": "2026-01-06T13:02:15.413Z"
+    "updated_at": "2026-01-08T05:42:01.069Z"
   }
 },
 {
@@ -1505,11 +1464,11 @@
     "description": "Gourmet paella with grilled seafood, rice, and vegetables � a healthy and flavorful meal.",
     "price": 450.0,
     "rating": 4.7,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762786379/grilled-seafood-paella-gourmet-healthy-meal-generated-by-ai_hvpvdq.jpg",
+    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767680621/1000143322_sekcsd.jpg",
     "availability": true,
     "category": 7,
     "created_at": "2025-12-23T12:56:54.444Z",
-    "updated_at": "2025-12-23T12:56:54.444Z"
+    "updated_at": "2026-01-08T06:10:24.969Z"
   }
 },
 {
@@ -1589,7 +1548,7 @@
     "availability": true,
     "category": 3,
     "created_at": "2025-12-23T13:03:20.232Z",
-    "updated_at": "2026-01-06T08:01:46.607Z"
+    "updated_at": "2026-01-08T05:17:21.285Z"
   }
 },
 {
@@ -1690,22 +1649,6 @@
 },
 {
   "model": "menu.item",
-  "pk": 136,
-  "fields": {
-    "title": 3,
-    "name": "Turkish Borek Served with Herbs",
-    "description": "Flaky Turkish borek served with fresh herbs for a flavorful experience.",
-    "price": 220.0,
-    "rating": 4.6,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787958/turkish-borek-served-with-herbs_yy35xy.jpg",
-    "availability": true,
-    "category": 13,
-    "created_at": "2025-12-23T13:16:16.054Z",
-    "updated_at": "2025-12-23T13:16:16.054Z"
-  }
-},
-{
-  "model": "menu.item",
   "pk": 137,
   "fields": {
     "title": 3,
@@ -1734,22 +1677,6 @@
     "category": 10,
     "created_at": "2025-12-23T13:22:22.068Z",
     "updated_at": "2026-01-07T05:10:52.961Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 141,
-  "fields": {
-    "title": 3,
-    "name": "Cheese Spring Rolls",
-    "description": "Crispy spring rolls stuffed with cheese, perfect as a snack or appetizer.",
-    "price": 145.0,
-    "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767680582/1000143331_ao2rvs.jpg",
-    "availability": true,
-    "category": 13,
-    "created_at": "2025-12-23T13:23:49.642Z",
-    "updated_at": "2026-01-06T13:22:33.713Z"
   }
 },
 {
@@ -1798,38 +1725,6 @@
     "category": 11,
     "created_at": "2025-12-23T13:26:47.349Z",
     "updated_at": "2026-01-06T13:53:25.303Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 145,
-  "fields": {
-    "title": 3,
-    "name": "Pancakes with Ketchup Sauce",
-    "description": "Fluffy pancakes served with tangy ketchup sauce, ideal for breakfast or snack.",
-    "price": 150.0,
-    "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1762787992/pancakes-with-ketchup-sauce_n6cxx2.jpg",
-    "availability": true,
-    "category": 13,
-    "created_at": "2025-12-23T13:27:27.386Z",
-    "updated_at": "2025-12-23T13:27:27.386Z"
-  }
-},
-{
-  "model": "menu.item",
-  "pk": 146,
-  "fields": {
-    "title": 3,
-    "name": "Deep Fried Spring Rolls",
-    "description": "Crispy golden spring rolls stuffed with fresh vegetables and served hot.",
-    "price": 140.0,
-    "rating": 4.5,
-    "image": "https://res.cloudinary.com/dn2zgnznh/image/upload/v1767680580/1000143332_wdkbaj.jpg",
-    "availability": true,
-    "category": 13,
-    "created_at": "2025-12-23T13:29:26.720Z",
-    "updated_at": "2026-01-06T13:20:45.127Z"
   }
 },
 {
